@@ -5,7 +5,7 @@
       "connector": "mongoose",
       "settings": {
         "database": "strapi",
-        "host": "clusterx-xgvos.mongodb.net/test?retryWrites=true&w=majority",
+        "host": "clusterx-xgvos.mongodb.net/test?retryWrites=true",
         "srv": "true",
         "port": 27017,
         "username": "default",
