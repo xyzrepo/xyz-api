@@ -1,1 +1,1 @@
-strapi-web: npm run develop
+web: npm run develop
